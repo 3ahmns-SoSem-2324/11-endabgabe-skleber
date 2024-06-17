@@ -95,5 +95,13 @@ classDiagram
     MonoBehaviour --> ButtonManager
 ```
 
-###Feedback Testpersonen
+### Feedback Testpersonen
+
+Alle fanden das Spiel benutzerfreundlich, der einzige kleine Mangel waren die gleichen Farben von den Herzen, also dem Leben und der Hintergrund wenn man die Zahl falsch einschäzt.
+
+Das Punktesystem und die Lebensanzeige hat sehr überzeugt.
+
+Allerdings wird das Spiel nach 3-4 mal spielen langweilig und eintönig.
+
+Fehler waren keine auffindbar.
 
